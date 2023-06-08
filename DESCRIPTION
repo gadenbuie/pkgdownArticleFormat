@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/gadenbuie/pkgdownArticleFormat
+BugReports: https://github.com/gadenbuie/pkgdownArticleFormat/issues
