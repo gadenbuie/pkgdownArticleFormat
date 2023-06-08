@@ -1,0 +1,21 @@
+---
+title: "bug"
+output:
+  cleanrmd::html_document_clean:
+    theme: new.css
+    toc: true
+    toc_depth: 2
+vignette: >
+  %\VignetteIndexEntry{bug}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+This vignette uses an alternative rmarkdown output format.
